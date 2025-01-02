@@ -19,7 +19,7 @@ fun Screen1(){
 @Composable
 fun Screen2(){
     Text(
-        text = "Screen 2",
+        text = "Screen 2_",
         modifier = Modifier.fillMaxSize().wrapContentHeight(),
         textAlign = TextAlign.Center
     )
